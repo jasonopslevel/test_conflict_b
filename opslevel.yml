@@ -3,7 +3,7 @@ version: 1
 service:
   name: test_conflict
   lifecycle:
-  tier:
+  tier: tier_1
   product:
   owner:
   language:
